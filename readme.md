@@ -217,10 +217,6 @@ Topics covered include:
 
 ---
 
-# 📊 Power BI Dashboard
-
-The dashboard consists of **two interactive pages**.
-
 ## Executive Overview
 
 Features:
@@ -251,17 +247,11 @@ Features:
 
 ---
 
-# 📷 Dashboard Preview
-
 ## Executive Overview
-
-> *(Add Dashboard Page 1 Screenshot Here)*
 
 ---
 
 ## Customer & Business Insights
-
-> *(Add Dashboard Page 2 Screenshot Here)*
 
 ---
 
@@ -347,7 +337,7 @@ B.Tech Data Science Engineering Student
 
 Aspiring Data Analyst | Data Engineer
 
-GitHub: https://github.com/badgujarram3
+GitHub: https://github.com/badgujarram3/Banking_Customer_Transaction_Analytics
 
 LinkedIn: https://www.linkedin.com/in/ram-badgujar-5a8b48335/?isSelfProfile=true
 
