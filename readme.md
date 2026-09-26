@@ -349,6 +349,6 @@ Aspiring Data Analyst | Data Engineer
 
 GitHub: https://github.com/badgujarram3
 
-LinkedIn: *(Add your LinkedIn profile here)*
+LinkedIn: Add your LinkedIn profile here)*](https://www.linkedin.com/in/ram-badgujar-5a8b48335/?isSelfProfile=true
 
 ---
