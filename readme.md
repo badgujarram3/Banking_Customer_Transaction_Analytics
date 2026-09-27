@@ -337,8 +337,8 @@ B.Tech Data Science Engineering Student
 
 Aspiring Data Analyst | Data Engineer
 
-GitHub: https://github.com/badgujarram3/Banking_Customer_Transaction_Analytics
+GitHub: https: https://github.com/badgujarram3
 
-LinkedIn: https://www.linkedin.com/in/ram-badgujar-5a8b48335/?isSelfProfile=true
+LinkedIn: https: //www.linkedin.com/in/ram-badgujar-5a8b48335/?isSelfProfile=true
 
 ---
